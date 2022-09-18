@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![pridestalkerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=pridestalkerr)](https://github.com/anuraghazra/github-readme-stats)
+[![pridestalkerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=pridestalkerr&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Pridestalkerr/pridestalkerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
